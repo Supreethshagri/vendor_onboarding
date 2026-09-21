@@ -1,0 +1,21 @@
+{
+  "facts": {
+    "gst_certificate": {
+      "gstin": "29AABCH4455T1ZA",
+      "legal_name": "Hemavathi Logistics Private Limited",
+      "trade_name": "Hemavathi Logistics",
+      "state": "Karnataka"
+    },
+    "cheque": {
+      "account_holder_name": "HEMAVATHI LOGISTICS PRIVATE LIMITED",
+      "account_number": "50100008887766",
+      "ifsc": "YESB0004455",
+      "bank_name": "HDFC Bank"
+    },
+    "pan_card": {
+      "pan": "AABCH4455T",
+      "name": "Hemavathi Logistics Private Limited"
+    }
+  },
+  "problems": []
+}

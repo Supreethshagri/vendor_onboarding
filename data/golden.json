@@ -1,0 +1,42 @@
+{
+  "SUB-001": {
+    "expect": "approved",
+    "why": "Happy path. Company, everything consistent."
+  },
+  "SUB-002": {
+    "expect": "approved",
+    "why": "Proprietorship. Personal bank account is legitimate here."
+  },
+  "SUB-003": {
+    "expect": "rejected",
+    "why": "EDGE 1. GSTIN valid, PAN valid, names match \u2014 but the PAN embedded in the GSTIN belongs to a different entity."
+  },
+  "SUB-004": {
+    "expect": "needs_review",
+    "why": "EDGE 2. Company entity, but funds would go to an individual."
+  },
+  "SUB-005": {
+    "expect": "pending_info",
+    "why": "EDGE 3. Certificate is a Maharashtra registration, form claims Karnataka. Both real, inconsistent together."
+  },
+  "SUB-006": {
+    "expect": "approved",
+    "why": "EDGE 4. Malformed Udyam number. Affects payment terms under MSMED, not legitimacy. Warning only."
+  },
+  "SUB-007": {
+    "expect": "pending_info",
+    "why": "Ordinary incompleteness. No cheque uploaded, IFSC blank."
+  },
+  "SUB-008": {
+    "expect": "rejected",
+    "why": "GSTIN passes the format check, fails the checksum. Fabricated."
+  },
+  "SUB-009": {
+    "expect": "approved",
+    "why": "Bank holder is an abbreviation of the legal name. Cosmetic, not suspicious."
+  },
+  "SUB-010": {
+    "expect": "needs_review",
+    "why": "Cheque IFSC differs from the form. Typo or account swap \u2014 a human decides."
+  }
+}

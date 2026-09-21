@@ -1,0 +1,21 @@
+{
+  "facts": {
+    "gst_certificate": {
+      "gstin": "29AABCV8899W1ZK",
+      "legal_name": "Vidyaranya Electricals Private Limited",
+      "trade_name": "Vidyaranya",
+      "state": "Karnataka"
+    },
+    "cheque": {
+      "account_holder_name": "VIDYARANYA ELECTRICALS",
+      "account_number": "50100009887766",
+      "ifsc": "IDIB0008899",
+      "bank_name": "HDFC Bank"
+    },
+    "pan_card": {
+      "pan": "AABCV8899W",
+      "name": "Vidyaranya Electricals Private Limited"
+    }
+  },
+  "problems": []
+}

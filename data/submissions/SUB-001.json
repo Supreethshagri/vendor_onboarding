@@ -1,0 +1,43 @@
+{
+  "submission_id": "SUB-001",
+  "submitted_at": "2026-09-15",
+  "legal_name": "Shagri Technologies Private Limited",
+  "trade_name": "Shagri Tech",
+  "gstin": "29AABCU9603R1ZJ",
+  "pan": "AABCU9603R",
+  "msme_udyam": "UDYAM-KR-03-0012345",
+  "registered_address": {
+    "line1": "12 Industrial Layout",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560010"
+  },
+  "bank": {
+    "account_holder_name": "SHAGRI TECHNOLOGIES PRIVATE LIMITED",
+    "account_number": "50100001887766",
+    "ifsc": "HDFC0001234",
+    "bank_name": "HDFC Bank"
+  },
+  "contact": {
+    "name": "Accounts Team",
+    "email": "accounts@sub-001.example.in",
+    "phone": "9900112233"
+  },
+  "documents": [
+    {
+      "type": "gst_certificate",
+      "filename": "SUB-001_gst_certificate.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-001_gst_certificate.pdf"
+    },
+    {
+      "type": "cancelled_cheque",
+      "filename": "SUB-001_cancelled_cheque.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-001_cancelled_cheque.pdf"
+    },
+    {
+      "type": "pan_card",
+      "filename": "SUB-001_pan_card.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-001_pan_card.pdf"
+    }
+  ]
+}

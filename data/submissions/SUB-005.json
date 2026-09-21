@@ -1,0 +1,43 @@
+{
+  "submission_id": "SUB-005",
+  "submitted_at": "2026-09-15",
+  "legal_name": "Tungabhadra Components Private Limited",
+  "trade_name": "Tunga Components",
+  "gstin": "29AAGCT3344N1ZT",
+  "pan": "AAGCT3344N",
+  "msme_udyam": "UDYAM-KR-03-0033445",
+  "registered_address": {
+    "line1": "12 Industrial Layout",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560010"
+  },
+  "bank": {
+    "account_holder_name": "TUNGABHADRA COMPONENTS PRIVATE LIMITED",
+    "account_number": "50100005887766",
+    "ifsc": "KKBK0003344",
+    "bank_name": "HDFC Bank"
+  },
+  "contact": {
+    "name": "Accounts Team",
+    "email": "accounts@sub-005.example.in",
+    "phone": "9900112233"
+  },
+  "documents": [
+    {
+      "type": "gst_certificate",
+      "filename": "SUB-005_gst_certificate.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-005_gst_certificate.pdf"
+    },
+    {
+      "type": "cancelled_cheque",
+      "filename": "SUB-005_cancelled_cheque.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-005_cancelled_cheque.pdf"
+    },
+    {
+      "type": "pan_card",
+      "filename": "SUB-005_pan_card.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-005_pan_card.pdf"
+    }
+  ]
+}

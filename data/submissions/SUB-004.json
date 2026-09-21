@@ -1,0 +1,43 @@
+{
+  "submission_id": "SUB-004",
+  "submitted_at": "2026-09-15",
+  "legal_name": "Kaveri Industrial Works Private Limited",
+  "trade_name": "Kaveri Works",
+  "gstin": "29AADCK1122M1ZJ",
+  "pan": "AADCK1122M",
+  "msme_udyam": "UDYAM-KR-03-0011223",
+  "registered_address": {
+    "line1": "12 Industrial Layout",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560010"
+  },
+  "bank": {
+    "account_holder_name": "RAMESH KUMAR N",
+    "account_number": "50100004887766",
+    "ifsc": "AXIS0001122",
+    "bank_name": "HDFC Bank"
+  },
+  "contact": {
+    "name": "Accounts Team",
+    "email": "accounts@sub-004.example.in",
+    "phone": "9900112233"
+  },
+  "documents": [
+    {
+      "type": "gst_certificate",
+      "filename": "SUB-004_gst_certificate.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-004_gst_certificate.pdf"
+    },
+    {
+      "type": "cancelled_cheque",
+      "filename": "SUB-004_cancelled_cheque.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-004_cancelled_cheque.pdf"
+    },
+    {
+      "type": "pan_card",
+      "filename": "SUB-004_pan_card.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-004_pan_card.pdf"
+    }
+  ]
+}

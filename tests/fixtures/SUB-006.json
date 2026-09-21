@@ -1,0 +1,21 @@
+{
+  "facts": {
+    "gst_certificate": {
+      "gstin": "29AAHCP6677Q1Z8",
+      "legal_name": "Pushpagiri Packaging Private Limited",
+      "trade_name": "Pushpagiri Pack",
+      "state": "Karnataka"
+    },
+    "cheque": {
+      "account_holder_name": "PUSHPAGIRI PACKAGING PRIVATE LIMITED",
+      "account_number": "50100006887766",
+      "ifsc": "UTIB0006677",
+      "bank_name": "HDFC Bank"
+    },
+    "pan_card": {
+      "pan": "AAHCP6677Q",
+      "name": "Pushpagiri Packaging Private Limited"
+    }
+  },
+  "problems": []
+}

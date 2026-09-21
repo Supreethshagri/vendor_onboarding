@@ -1,0 +1,21 @@
+{
+  "facts": {
+    "gst_certificate": {
+      "gstin": "29AABCU9603R1ZJ",
+      "legal_name": "Shagri Technologies Private Limited",
+      "trade_name": "Shagri Tech",
+      "state": "Karnataka"
+    },
+    "cheque": {
+      "account_holder_name": "SHAGRI TECHNOLOGIES PRIVATE LIMITED",
+      "account_number": "50100001887766",
+      "ifsc": "HDFC0001234",
+      "bank_name": "HDFC Bank"
+    },
+    "pan_card": {
+      "pan": "AABCU9603R",
+      "name": "Shagri Technologies Private Limited"
+    }
+  },
+  "problems": []
+}

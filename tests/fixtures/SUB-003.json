@@ -1,0 +1,21 @@
+{
+  "facts": {
+    "gst_certificate": {
+      "gstin": "29AABCU9603R1ZJ",
+      "legal_name": "Nandi Supply Chain Private Limited",
+      "trade_name": "Nandi Supply",
+      "state": "Karnataka"
+    },
+    "cheque": {
+      "account_holder_name": "NANDI SUPPLY CHAIN PRIVATE LIMITED",
+      "account_number": "50100003887766",
+      "ifsc": "ICIC0004455",
+      "bank_name": "HDFC Bank"
+    },
+    "pan_card": {
+      "pan": "AAFCS5566L",
+      "name": "Nandi Supply Chain Private Limited"
+    }
+  },
+  "problems": []
+}

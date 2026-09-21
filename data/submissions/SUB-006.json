@@ -1,0 +1,43 @@
+{
+  "submission_id": "SUB-006",
+  "submitted_at": "2026-09-15",
+  "legal_name": "Pushpagiri Packaging Private Limited",
+  "trade_name": "Pushpagiri Pack",
+  "gstin": "29AAHCP6677Q1Z8",
+  "pan": "AAHCP6677Q",
+  "msme_udyam": "KR-0012345",
+  "registered_address": {
+    "line1": "12 Industrial Layout",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560010"
+  },
+  "bank": {
+    "account_holder_name": "PUSHPAGIRI PACKAGING PRIVATE LIMITED",
+    "account_number": "50100006887766",
+    "ifsc": "UTIB0006677",
+    "bank_name": "HDFC Bank"
+  },
+  "contact": {
+    "name": "Accounts Team",
+    "email": "accounts@sub-006.example.in",
+    "phone": "9900112233"
+  },
+  "documents": [
+    {
+      "type": "gst_certificate",
+      "filename": "SUB-006_gst_certificate.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-006_gst_certificate.pdf"
+    },
+    {
+      "type": "cancelled_cheque",
+      "filename": "SUB-006_cancelled_cheque.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-006_cancelled_cheque.pdf"
+    },
+    {
+      "type": "pan_card",
+      "filename": "SUB-006_pan_card.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-006_pan_card.pdf"
+    }
+  ]
+}

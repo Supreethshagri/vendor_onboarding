@@ -1,0 +1,38 @@
+{
+  "submission_id": "SUB-007",
+  "submitted_at": "2026-09-15",
+  "legal_name": "Malnad Fabricators Private Limited",
+  "trade_name": "Malnad Fab",
+  "gstin": "29AABCM2233R1Z3",
+  "pan": "AABCM2233R",
+  "msme_udyam": "UDYAM-KR-03-0022334",
+  "registered_address": {
+    "line1": "12 Industrial Layout",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560010"
+  },
+  "bank": {
+    "account_holder_name": "MALNAD FABRICATORS PRIVATE LIMITED",
+    "account_number": "50100007887766",
+    "ifsc": null,
+    "bank_name": "HDFC Bank"
+  },
+  "contact": {
+    "name": "Accounts Team",
+    "email": "accounts@sub-007.example.in",
+    "phone": "9900112233"
+  },
+  "documents": [
+    {
+      "type": "gst_certificate",
+      "filename": "SUB-007_gst_certificate.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-007_gst_certificate.pdf"
+    },
+    {
+      "type": "pan_card",
+      "filename": "SUB-007_pan_card.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-007_pan_card.pdf"
+    }
+  ]
+}

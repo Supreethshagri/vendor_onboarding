@@ -1,0 +1,43 @@
+{
+  "submission_id": "SUB-003",
+  "submitted_at": "2026-09-15",
+  "legal_name": "Nandi Supply Chain Private Limited",
+  "trade_name": "Nandi Supply",
+  "gstin": "29AABCU9603R1ZJ",
+  "pan": "AAFCS5566L",
+  "msme_udyam": "UDYAM-KR-03-0044556",
+  "registered_address": {
+    "line1": "12 Industrial Layout",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560010"
+  },
+  "bank": {
+    "account_holder_name": "NANDI SUPPLY CHAIN PRIVATE LIMITED",
+    "account_number": "50100003887766",
+    "ifsc": "ICIC0004455",
+    "bank_name": "HDFC Bank"
+  },
+  "contact": {
+    "name": "Accounts Team",
+    "email": "accounts@sub-003.example.in",
+    "phone": "9900112233"
+  },
+  "documents": [
+    {
+      "type": "gst_certificate",
+      "filename": "SUB-003_gst_certificate.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-003_gst_certificate.pdf"
+    },
+    {
+      "type": "cancelled_cheque",
+      "filename": "SUB-003_cancelled_cheque.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-003_cancelled_cheque.pdf"
+    },
+    {
+      "type": "pan_card",
+      "filename": "SUB-003_pan_card.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-003_pan_card.pdf"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "facts": {
+    "gst_certificate": {
+      "gstin": "29AAAPU7788K1ZP",
+      "legal_name": "Supreeth B M",
+      "trade_name": "Kaveri Traders",
+      "state": "Karnataka"
+    },
+    "cheque": {
+      "account_holder_name": "SUPREETH B M",
+      "account_number": "50100002887766",
+      "ifsc": "SBIN0007788",
+      "bank_name": "HDFC Bank"
+    },
+    "pan_card": {
+      "pan": "AAAPU7788K",
+      "name": "Supreeth B M"
+    }
+  },
+  "problems": []
+}

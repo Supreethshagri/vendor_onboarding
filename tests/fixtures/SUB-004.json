@@ -1,0 +1,21 @@
+{
+  "facts": {
+    "gst_certificate": {
+      "gstin": "29AADCK1122M1ZJ",
+      "legal_name": "Kaveri Industrial Works Private Limited",
+      "trade_name": "Kaveri Works",
+      "state": "Karnataka"
+    },
+    "cheque": {
+      "account_holder_name": "RAMESH KUMAR N",
+      "account_number": "50100004887766",
+      "ifsc": "AXIS0001122",
+      "bank_name": "HDFC Bank"
+    },
+    "pan_card": {
+      "pan": "AADCK1122M",
+      "name": "Kaveri Industrial Works Private Limited"
+    }
+  },
+  "problems": []
+}

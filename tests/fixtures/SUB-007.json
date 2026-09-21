@@ -1,0 +1,16 @@
+{
+  "facts": {
+    "gst_certificate": {
+      "gstin": "29AABCM2233R1Z3",
+      "legal_name": "Malnad Fabricators Private Limited",
+      "trade_name": "Malnad Fab",
+      "state": "Karnataka"
+    },
+    "cheque": null,
+    "pan_card": {
+      "pan": "AABCM2233R",
+      "name": "Malnad Fabricators Private Limited"
+    }
+  },
+  "problems": []
+}

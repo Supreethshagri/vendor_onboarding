@@ -1,0 +1,43 @@
+{
+  "submission_id": "SUB-002",
+  "submitted_at": "2026-09-15",
+  "legal_name": "Supreeth B M",
+  "trade_name": "Kaveri Traders",
+  "gstin": "29AAAPU7788K1ZP",
+  "pan": "AAAPU7788K",
+  "msme_udyam": "UDYAM-KR-03-0099887",
+  "registered_address": {
+    "line1": "12 Industrial Layout",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560010"
+  },
+  "bank": {
+    "account_holder_name": "SUPREETH B M",
+    "account_number": "50100002887766",
+    "ifsc": "SBIN0007788",
+    "bank_name": "HDFC Bank"
+  },
+  "contact": {
+    "name": "Accounts Team",
+    "email": "accounts@sub-002.example.in",
+    "phone": "9900112233"
+  },
+  "documents": [
+    {
+      "type": "gst_certificate",
+      "filename": "SUB-002_gst_certificate.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-002_gst_certificate.pdf"
+    },
+    {
+      "type": "cancelled_cheque",
+      "filename": "SUB-002_cancelled_cheque.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-002_cancelled_cheque.pdf"
+    },
+    {
+      "type": "pan_card",
+      "filename": "SUB-002_pan_card.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-002_pan_card.pdf"
+    }
+  ]
+}

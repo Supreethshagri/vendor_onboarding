@@ -1,0 +1,21 @@
+{
+  "facts": {
+    "gst_certificate": {
+      "gstin": "27AAGCT3344N1ZX",
+      "legal_name": "Tungabhadra Components Private Limited",
+      "trade_name": "Tunga Components",
+      "state": "Karnataka"
+    },
+    "cheque": {
+      "account_holder_name": "TUNGABHADRA COMPONENTS PRIVATE LIMITED",
+      "account_number": "50100005887766",
+      "ifsc": "KKBK0003344",
+      "bank_name": "HDFC Bank"
+    },
+    "pan_card": {
+      "pan": "AAGCT3344N",
+      "name": "Tungabhadra Components Private Limited"
+    }
+  },
+  "problems": []
+}

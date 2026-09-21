@@ -1,0 +1,43 @@
+{
+  "submission_id": "SUB-010",
+  "submitted_at": "2026-09-15",
+  "legal_name": "Baragi Chemicals Private Limited",
+  "trade_name": "Baragi Chem",
+  "gstin": "29AABCB1177X1ZT",
+  "pan": "AABCB1177X",
+  "msme_udyam": "UDYAM-KR-03-0011771",
+  "registered_address": {
+    "line1": "12 Industrial Layout",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560010"
+  },
+  "bank": {
+    "account_holder_name": "BARAGI CHEMICALS PRIVATE LIMITED",
+    "account_number": "50100010887766",
+    "ifsc": "HDFC0001177",
+    "bank_name": "HDFC Bank"
+  },
+  "contact": {
+    "name": "Accounts Team",
+    "email": "accounts@sub-010.example.in",
+    "phone": "9900112233"
+  },
+  "documents": [
+    {
+      "type": "gst_certificate",
+      "filename": "SUB-010_gst_certificate.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-010_gst_certificate.pdf"
+    },
+    {
+      "type": "cancelled_cheque",
+      "filename": "SUB-010_cancelled_cheque.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-010_cancelled_cheque.pdf"
+    },
+    {
+      "type": "pan_card",
+      "filename": "SUB-010_pan_card.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-010_pan_card.pdf"
+    }
+  ]
+}

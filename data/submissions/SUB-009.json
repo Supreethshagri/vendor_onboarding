@@ -1,0 +1,43 @@
+{
+  "submission_id": "SUB-009",
+  "submitted_at": "2026-09-15",
+  "legal_name": "Vidyaranya Electricals Private Limited",
+  "trade_name": "Vidyaranya",
+  "gstin": "29AABCV8899W1ZK",
+  "pan": "AABCV8899W",
+  "msme_udyam": "UDYAM-KR-03-0088990",
+  "registered_address": {
+    "line1": "12 Industrial Layout",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560010"
+  },
+  "bank": {
+    "account_holder_name": "VIDYARANYA ELECTRICALS",
+    "account_number": "50100009887766",
+    "ifsc": "IDIB0008899",
+    "bank_name": "HDFC Bank"
+  },
+  "contact": {
+    "name": "Accounts Team",
+    "email": "accounts@sub-009.example.in",
+    "phone": "9900112233"
+  },
+  "documents": [
+    {
+      "type": "gst_certificate",
+      "filename": "SUB-009_gst_certificate.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-009_gst_certificate.pdf"
+    },
+    {
+      "type": "cancelled_cheque",
+      "filename": "SUB-009_cancelled_cheque.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-009_cancelled_cheque.pdf"
+    },
+    {
+      "type": "pan_card",
+      "filename": "SUB-009_pan_card.pdf",
+      "path": "C:\\Users\\supre\\OneDrive\\Documents\\GENAI_Proj\\vendor-onboarding\\data\\documents\\SUB-009_pan_card.pdf"
+    }
+  ]
+}
