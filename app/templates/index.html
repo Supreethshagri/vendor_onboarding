@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block body %}
+<h1>Vendor onboarding</h1>
+<p class="sub">Submissions and their most recent decision.</p>
+
+<table>
+  <tr><th>ID</th><th>Legal name</th><th>GSTIN</th><th>Status</th></tr>
+  {% for r in rows %}
+  <tr>
+    <td><a href="/submissions/{{ r.submission_id }}">{{ r.submission_id }}</a></td>
+    <td>{{ r.legal_name or "—" }}</td>
+    <td class="rule">{{ r.gstin or "—" }}</td>
+    <td>
+      {% if r.status %}<span class="pill {{ r.status }}">{{ r.status.replace("_", " ") }}</span>
+      {% else %}—{% endif %}
+    </td>
+  </tr>
+  {% endfor %}
+</table>
+
+<h2>Rules fired</h2>
+<table>
+  <tr><th>Rule</th><th>Severity</th><th>Hits</th></tr>
+  {% for r in rules %}
+  <tr>
+    <td class="rule">{{ r.rule_id }}</td>
+    <td><span class="pill {{ r.severity }}">{{ r.severity.replace("_", " ") }}</span></td>
+    <td>{{ r.hits }}</td>
+  </tr>
+  {% endfor %}
+</table>
+{% endblock %}

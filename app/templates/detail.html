@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block title %}{{ sid }}{% endblock %}
+{% block body %}
+<p class="sub"><a href="/">← All submissions</a></p>
+<h1>{{ sid }} <span class="pill {{ d.status }}">{{ d.status.replace("_", " ") }}</span></h1>
+<p class="sub">Decided {{ d.decided_at }}</p>
+
+<h2>Findings</h2>
+{% if not d.findings %}
+  <p class="sub">No findings. All checks passed.</p>
+{% endif %}
+{% for f in d.findings %}
+<div class="finding">
+  <span class="pill {{ f.severity }}">{{ f.severity.replace("_", " ") }}</span>
+  <span class="rule">{{ f.rule_id }}{% if f.field %} · {{ f.field }}{% endif %}</span>
+  <div>{{ f.message }}</div>
+  {% if f.remedy %}
+  <div class="remedy">
+    {% if f.severity in ("require_info", "warn") %}Vendor is told:
+    {% else %}Suggested remedy (withheld — not disclosed on rejected or under-review submissions):
+    {% endif %}
+    {{ f.remedy }}
+  </div>
+{% endif %}
+</div>
+{% endfor %}
+
+{% if d.vendor_message %}
+<h2>Message sent to vendor</h2>
+<pre>{{ d.vendor_message }}</pre>
+{% endif %}
+
+<h2>Trace</h2>
+{% for e in d.trace %}
+<div class="step">
+  <strong>{{ e.step }}</strong> <span class="ms">{{ e.duration_ms }}ms</span><br>
+  {{ e.summary }}
+</div>
+{% endfor %}
+{% endblock %}
