@@ -1,0 +1,21 @@
+{
+  "facts": {
+    "gst_certificate": {
+      "gstin": "29AABCB1177X1ZT",
+      "legal_name": "Baragi Chemicals Private Limited",
+      "trade_name": "Baragi Chem",
+      "state": "Karnataka"
+    },
+    "cheque": {
+      "account_holder_name": "BARAGI CHEMICALS PRIVATE LIMITED",
+      "account_number": "50100010887766",
+      "ifsc": "HDFC0009999",
+      "bank_name": "HDFC Bank"
+    },
+    "pan_card": {
+      "pan": "AABCB1177X",
+      "name": "Baragi Chemicals Private Limited"
+    }
+  },
+  "problems": []
+}
