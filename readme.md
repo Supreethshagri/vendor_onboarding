@@ -1,4 +1,5 @@
 # Vendor onboarding — submission to decision
+live: https://vendor-onboarding-muh2.onrender.com/
 
 Takes a vendor's onboarding submission — form fields plus supporting
 documents — and produces a status with the reasoning attached: approved,
@@ -260,3 +261,6 @@ data/          synthetic submissions, generated PDFs, golden verdicts
 Everything in `checks/` is pure — no network, no database, no model. That's
 what makes the decision logic testable in isolation and why the suite runs
 in 0.2 seconds.
+
+Deployed at **https://vendor-onboarding-muh2.onrender.com/** — free tier, so the
+first request after idle takes around 50 seconds to wake.
